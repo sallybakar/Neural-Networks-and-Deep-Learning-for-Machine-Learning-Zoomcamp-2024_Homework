@@ -83,8 +83,8 @@ pip install -r requirements.txt
 ## Data Preparation
 1. Download the dataset:
    ```bash
-   wget https://github.com/SVizor42/ML_Zoomcamp/releases/download/straight-curly-data/data.zip
-   unzip data.zip
+   !wget https://github.com/SVizor42/ML_Zoomcamp/releases/download/straight-curly-data/data.zip
+   !unzip data.zip
    ```
 2. Rescale the images to normalize pixel values between 0 and 1:
    ```python
