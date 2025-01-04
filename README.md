@@ -19,7 +19,7 @@ This repository contains my work for the **Neural Networks and Deep Learning for
 
 ---
 
-## Project Overview
+## Task Overview
 The objective of this project is to classify hair types (straight vs. curly) using a CNN. The model is trained from scratch on a dataset of hair images, implementing data augmentation techniques to improve model generalization.
 
 ---
@@ -122,7 +122,7 @@ pip install -r requirements.txt
 ---
 
 ## Acknowledgements
-This project is part of the **Neural Networks and Deep Learning for Machine Learning Zoomcamp 2024**. Special thanks to the instructors and Kaggle for providing the dataset.
+This task is part of the **Neural Networks and Deep Learning for Machine Learning Zoomcamp 2024**. Special thanks to the instructors and Kaggle for providing the dataset.
 
 ---
 
